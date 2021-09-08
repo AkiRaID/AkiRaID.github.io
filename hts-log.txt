@@ -1,0 +1,28 @@
+HTTrack3.49-2 launched on Wed, 08 Sep 2021 20:56:45 at https://rahmansenpai.my.id/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/rahman -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://rahmansenpai.my.id/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:59:43	Warning: 	Retry after error -4 (Incorrect length (81490 Bytes, 253450 expected)) at link https://rahmansenpai.my.id/assets/media/logos/favicon.png (from https://rahmansenpai.my.id/)
+21:00:25	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://rahmansenpai.my.id/assets/css/style.bundle.css (from https://rahmansenpai.my.id/)
+21:00:28	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://rahmansenpai.my.id/assets/plugins/global/plugins.bundle.js (from https://rahmansenpai.my.id/)
+21:00:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rahmansenpai.my.id/tools/pentester/clickjacking-tester (from https://rahmansenpai.my.id/)
+21:00:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rahmansenpai.my.id/tools/network/whois-lookup (from https://rahmansenpai.my.id/)
+21:00:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rahmansenpai.my.id/tools/converter/md5 (from https://rahmansenpai.my.id/)
+21:00:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rahmansenpai.my.id/tools/downloader/youtube (from https://rahmansenpai.my.id/)
+21:00:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rahmansenpai.my.id/tools/downloader/instagram (from https://rahmansenpai.my.id/)
+21:01:04	Error: 	"Not Found" (404) at link https://rahmansenpai.my.id/tools/pentester/index.php (from https://rahmansenpai.my.id/tools/pentester/jso-creator)
+21:01:04	Error: 	"Not Found" (404) at link https://rahmansenpai.my.id/tools/network/index.php (from https://rahmansenpai.my.id/tools/network/dns-lookup)
+21:01:04	Error: 	"Not Found" (404) at link https://rahmansenpai.my.id/tools/converter/index.php (from https://rahmansenpai.my.id/tools/converter/base32)
+21:01:04	Error: 	"Not Found" (404) at link https://rahmansenpai.my.id/tools/downloader/index.php (from https://rahmansenpai.my.id/tools/downloader/tiktok)
+21:01:04	Error: 	"Not Found" (404) at link https://rahmansenpai.my.id/tools/site-tools/index.php (from https://rahmansenpai.my.id/tools/site-tools/mass-add-http)
+21:01:04	Error: 	"Not Found" (404) at link https://rahmansenpai.my.id/tools/quotes-maker/index.php (from https://rahmansenpai.my.id/tools/quotes-maker/coretankata)
+21:01:04	Error: 	"Not Found" (404) at link https://rahmansenpai.my.id/tools/img-maker/index.php (from https://rahmansenpai.my.id/tools/img-maker/harta-tahta)
+21:01:04	Error: 	"Not Found" (404) at link https://rahmansenpai.my.id/tools/text-tools/index.php (from https://rahmansenpai.my.id/tools/text-tools/alay-text)
+21:01:04	Error: 	"Not Found" (404) at link https://rahmansenpai.my.id/tools/others/index.php (from https://rahmansenpai.my.id/tools/others/stres-text)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 19 seconds : 106 links scanned, 88 files written (12884372 bytes overall) [5425834 bytes received at 20949 bytes/sec], 10764038 bytes transferred using HTTP compression in 68 files, ratio 30%, 2.2 requests per connection
+(9 errors, 8 warnings, 0 messages)
